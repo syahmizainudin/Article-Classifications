@@ -3,7 +3,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-# Article-Classifications
+# Deep Learning Approach to Classify Article Into Various Categories Using LSTM
 Since text documents are among the most comprehensive sources of data for businesses, they are a crucial component which are essential towards a business advancement. Text papers frequently include important information that could impact investment flows or shape market patterns. As a result, businesses frequently employ analysts to keep an eye on the trend through internet publications, tweets on social media sites like Twitter, or newspaper articles. Some businesses, however, might prefer to limit their attention to news about politics and technology. As a result, categorizing the articles into separate groups is absolutely necessary.
 
 Often the categorization of the articles is conducted manually and after the fact which, often times, causes a waste of time and resources due to the huge effort needed. As such, this project is made to group previously uncategorized content into 5 categories: Sport, Technology, Business, Entertainment, and Politics.
